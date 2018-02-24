@@ -1,4 +1,4 @@
-def topla(x,y):
+def kemal(x,y):
 	return x+y
 
 	
